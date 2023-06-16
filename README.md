@@ -1,4 +1,5 @@
-pythyonic-garage-band
+# pythyonic-garage-band
+# LAB 04 ITS IN CAPS BECAUSE IT IS SO SERIOUS!!
 
 # Classes & Fixtures
 
@@ -45,3 +46,6 @@ pythyonic-garage-band
 - [Object Oriented Programming and Python Classes](./notes/classes.md)
 - [Class Inheritance and Composition](./notes/inheritance.md)
 - [Pytest Fixtures](./notes/fixtures.md)
+
+# COLLABORATIONS: Ashley Taylor, Rayven, Tammy, Tony, Raul, Brandon, chatGPT, Bard, Google, W3schools
+
